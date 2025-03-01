@@ -13,14 +13,14 @@ The dataset consists of Amazon customer reviews labeled with star ratings (1 to 
 1.  **Import Dataset**
 2.  **Exploratory Data Analysis (EDA)**
 3.  **Sentiment Analysis using NLTK**
-   -  Apply **NLTK's VADER** sentiment scoring
-   -  Visualize sentiment distributions
+      -  Apply **NLTK's VADER** sentiment scoring
+      -  Visualize sentiment distributions
 4.  **Sentiment Analysis using Hugging Face RoBERTa**
-   -  Use a **pre-trained transformer model** to classify sentiment
-   -  Compare results with NLTK
+      -  Use a **pre-trained transformer model** to classify sentiment
+      -  Compare results with NLTK
 5.  **Comparison of Model Performance**
-   -  **Accuracy Evaluation** of both models
-   -  **Analysis of misclassified reviews**
+      -  **Accuracy Evaluation** of both models
+      -  **Analysis of misclassified reviews**
 6.  **Using Hugging Face Pipelines for Sentiment Classification**
 
 ## 🛠 Tools & Technologies Used
